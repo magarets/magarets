@@ -1,11 +1,14 @@
 ![C](https://img.shields.io/badge/C%20language-3776AB.svg?&style=plastic&logo=C&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=plastic&logo=Python&logoColor=white)
-<br>
 <a href="https://www.instagram.com/yuddobbi/">
     <img 
         src="http://img.shields.io/badge/-yuddobbi-222222?style=plastic&logo=Instagram&link=https://www.instagram.com/yuddobbi/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
+</a><br>
+<!-- info start -->
+### yoonan
+- <t> 유난히 더 아름다운 
+***
 ### Best Of the Best 11th - Software Developer<br>
 Info {<br>
 &emsp;<b>별명 : 개발자</b><br>
