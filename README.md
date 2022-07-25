@@ -1,11 +1,18 @@
-### Best Of the Best 11th <br>
-### Info {<br>
+![C](https://img.shields.io/badge/C%20language-3776AB.svg?&style=plastic&logo=C&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=plastic&logo=Python&logoColor=white)
+<br>
+<a href="https://www.instagram.com/yuddobbi/">
+    <img 
+        src="http://img.shields.io/badge/-yuddobbi-222222?style=plastic&logo=Instagram&link=https://www.instagram.com/yuddobbi/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+### Best Of the Best 11th - Software Developer<br>
+Info {<br>
 &emsp;<b>별명 : 개발자</b><br>
 &emsp;<b>취미 : 히어로</b><br>
 &emsp;<b>특징 : 0개국어</b><br>
 }<br><br>
-<span style="color:#E4405F">Instagram</span>: https://www.instagram.com/yuddobbi/
-
+<b>후회없는 삶을 살려고 노력중</b>
 
 <!--
 **magarets/magarets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
