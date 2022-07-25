@@ -1,4 +1,11 @@
-### Hi there 👋
+### Best Of the Best 11th <br>
+### Info {<br>
+&emsp;<b>별명 : 개발자</b><br>
+&emsp;<b>취미 : 히어로</b><br>
+&emsp;<b>특징 : 0개국어</b><br>
+}<br><br>
+<span style="color:#E4405F">Instagram</span>: https://www.instagram.com/yuddobbi/
+
 
 <!--
 **magarets/magarets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
