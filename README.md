@@ -15,7 +15,7 @@ Info {<br>
 &emsp;<b>취미 : 히어로</b><br>
 &emsp;<b>특징 : 0개국어</b><br>
 }<br><br>
-<b>후회없는 삶을 살려고 노력중</b>
+<b>후회없는 삶을 위해 노력중</b>
 
 <!--
 **magarets/magarets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
