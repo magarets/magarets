@@ -9,13 +9,31 @@
 ### yoonan
 - <t> 유난히 더 아름다운 
 ***
-### Best Of the Best 11th - Software Developer<br>
-Info {<br>
+
+<h2>Best Of the Best 11th - Software Developer</h2><br>
+<!-- Center Start -->
+
+<p = align="center">
+&emsp;<b>Info</b><br>
 &emsp;<b>별명 : 개발자</b><br>
 &emsp;<b>취미 : 히어로</b><br>
 &emsp;<b>특징 : 0개국어</b><br>
-}<br><br>
-<b>후회없는 삶을 위해 노력중</b>
+<br><br>
+
+<!-- image -->
+<img src="https://user-images.githubusercontent.com/101767824/181694860-84bfaaa4-0298-442a-90f8-546410e3de45.png" width="300" height="140"/>
+<br>
+<br>
+너가 좋아하는 수 많은 행동보다<br><br>
+너가 싫어하는 한 가지 행동을 하지 않을게<br><br>
+
+<!-- <b>후회없는 삶을 위해 노력중</b> -->
+
+</p>
+<!-- Center End -->
+
+
+
 
 <!--
 **magarets/magarets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
