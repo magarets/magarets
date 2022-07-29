@@ -14,7 +14,7 @@
 <!-- Center Start -->
 
 <p = align="center">
-&emsp;<b>Info</b><br>
+<br>
 &emsp;<b>별명 : 개발자</b><br>
 &emsp;<b>취미 : 히어로</b><br>
 &emsp;<b>특징 : 0개국어</b><br>
