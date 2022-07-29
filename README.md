@@ -24,8 +24,8 @@
 <img src="https://user-images.githubusercontent.com/101767824/181694860-84bfaaa4-0298-442a-90f8-546410e3de45.png" width="300" height="140"/>
 <br>
 <br>
-너가 좋아하는 수 많은 행동보다<br><br>
-너가 싫어하는 한 가지 행동을 하지 않을게<br><br>
+네가 좋아하는 수많은 행동보다<br><br>
+네가 싫어하는 한 가지 행동을 하지 않을게<br><br>
 
 <!-- <b>후회없는 삶을 위해 노력중</b> -->
 
