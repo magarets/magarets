@@ -8,9 +8,9 @@
 <!-- info start -->
 ### yoonan
 - <t> 유난히 더 아름다운 
-***
 
-<h2>Best Of the Best 11th - Software Developer</h2><br>
+### Best Of the Best 11th 
+- <t> Software Developer <br>
 <!-- Center Start -->
 
 <p = align="center">
