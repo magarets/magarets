@@ -1,6 +1,7 @@
 ![C](https://img.shields.io/badge/C%20language-3776AB.svg?&style=plastic&logo=C&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=plastic&logo=Python&logoColor=white) <br>
-![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=plastic&logo=Docker&logoColor=white) <br>
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=plastic&logo=Docker&logoColor=white)
+![kubernetes](https://img.shields.io/badge/kubernetes-326CE5.svg?&style=plastic&logo=kubernetes&logoColor=white)<br>
 <a href="https://www.instagram.com/yuddobbi/">
     <img 
         src="http://img.shields.io/badge/-yuddobbi-222222?style=plastic&logo=Instagram&link=https://www.instagram.com/yuddobbi/"
