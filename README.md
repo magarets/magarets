@@ -1,4 +1,4 @@
-![C](https://img.shields.io/badge/C%20language-3776AB.svg?&style=plastic&logo=C&logoColor=white)
+<!--![C](https://img.shields.io/badge/C%20language-3776AB.svg?&style=plastic&logo=C&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=plastic&logo=Python&logoColor=white) <br>
 ![Neo4j](https://img.shields.io/badge/Neo4j-4581C3.svg?&style=plastic&logo=Neo4j&logoColor=white) <br>
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=plastic&logo=Docker&logoColor=white)
@@ -7,21 +7,23 @@
     <img 
         src="http://img.shields.io/badge/-yuddobbi-222222?style=plastic&logo=Instagram&link=https://www.instagram.com/yuddobbi/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a><br>
+</a><br> -->
 <!-- info start -->
+<!--
 ### yoonan
 - <t> 유난히 더 아름다운 
 
 ### Best Of the Best 11th 
 - <t> Software Developer <br>
+-->
 <!-- Center Start -->
 
 <p = align="center">
-<br>
+<!-- <br>
 &emsp;<b>이름 : 성유원</b><br>
 &emsp;<b>별명 : 개발자</b><br>
 &emsp;<b>특징 : 0개국어</b><br>
-<br><br>
+<br><br> -->
 
 <!-- image -->
 <img src="https://user-images.githubusercontent.com/101767824/280512157-e11358df-b325-4da4-91bf-d8a4dce31f5d.jpg" width="275" height="300"/>
