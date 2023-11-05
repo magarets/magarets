@@ -24,11 +24,12 @@
 <br><br>
 
 <!-- image -->
-<img src="https://user-images.githubusercontent.com/101767824/181694860-84bfaaa4-0298-442a-90f8-546410e3de45.png" width="300" height="140"/>
+<img src="https://user-images.githubusercontent.com/101767824/280512157-e11358df-b325-4da4-91bf-d8a4dce31f5d.jpg" width="275" height="300"/>
 <br>
 <br>
-네가 좋아하는 수 많은 행동을 하는 것보다<br><br>
-네가 싫어하는 한 가지 행동을 하지 않을게<br><br>
+설렜어 난
+<!-- 네가 좋아하는 수 많은 행동을 하는 것보다<br><br>
+네가 싫어하는 한 가지 행동을 하지 않을게<br><br> -->
 
 <!-- <b>후회없는 삶을 위해 노력중</b> -->
 
